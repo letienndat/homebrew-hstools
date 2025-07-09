@@ -1,8 +1,8 @@
 class UtilitiesMacos < Formula
   desc "My Lua-based Hammerspoon utilities"
   homepage "https://github.com/letienndat/utilities-macos"
-  url "https://github.com/letienndat/utilities-macos/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "a0ebad3aa88074f758cde123cc97ef279daef0174d9a2baeb18f9c6c06a29dd3"
+  url "https://github.com/letienndat/utilities-macos/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "9865c1fc0339a1a11c075192080550523178064591ce38197d8402f558d03408"
   license "MIT"
 
   def install
