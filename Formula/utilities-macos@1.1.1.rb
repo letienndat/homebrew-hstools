@@ -15,7 +15,7 @@ class UtilitiesMacosAT111 < Formula
           brew install --cask hammerspoon
 
       🛠 After installation, run the following command to finish setup:
-          bash $(brew --cellar utilities-macos)/$(brew list --versions utilities-macos | awk '{print $2}')/install.sh
+          bash $(brew --cellar #{name})/#{version}/install.sh
 
       This script will copy required files to: ~/.hammerspoon
     EOS
