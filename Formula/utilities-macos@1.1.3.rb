@@ -1,4 +1,4 @@
-class UtilitiesMacos < Formula
+class UtilitiesMacosAT113 < Formula
   desc "My Lua-based Hammerspoon utilities"
   homepage "https://github.com/letienndat/utilities-macos"
   url "https://github.com/letienndat/utilities-macos/archive/refs/tags/v1.1.3.tar.gz"
