@@ -14,7 +14,7 @@ class UtilitiesMacos < Formula
       ✅ Requirement: Hammerspoon must be installed.
           brew install --cask hammerspoon
 
-      🛠 After installation, run the following command to finish setup:
+      ➡️ After installation, please run the following command to finish setup:
           bash $(brew --cellar #{name})/#{version}/install.sh
 
       This script will copy required files to: ~/.hammerspoon
